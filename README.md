@@ -1,7 +1,12 @@
 # Amigo Secreto
 
-Projeto simples em **HTML, CSS e JavaScript** para realizar sorteios de **Amigo Secreto** diretamente no navegador.  
+[![Deploy no Vercel](https://img.shields.io/badge/Vercel-Deploy-success?style=for-the-badge&logo=vercel&logoColor=white)](https://one-oracle-challenge-amigo-secreto.vercel.app/)
+
+
+Aplicação simples em **HTML, CSS e JavaScript** para realizar sorteios de **Amigo Secreto** diretamente no navegador.  
 Permite adicionar nomes, listar amigos e realizar sorteios sem repetição.
+
+🔗 **Acesse aqui:** [Amigo Secreto - Vercel](https://one-oracle-challenge-amigo-secreto.vercel.app/)
 
 ---
 
@@ -40,5 +45,7 @@ Permite adicionar nomes, listar amigos e realizar sorteios sem repetição.
 5. Quando todos os amigos forem sorteados, uma mensagem de alerta será exibida.
 
 ---
+
+## Créditos
 
 Projeto desenvolvido durante o curso **ONE Next Challenge** da **Oracle** em parceria com a **Alura**.
